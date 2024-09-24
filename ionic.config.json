@@ -1,0 +1,7 @@
+{
+  "name": "ubersex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
